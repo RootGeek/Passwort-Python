@@ -8,6 +8,7 @@ Sie das generierte Passwort in die Zwischenablage kopieren, um es in andere Anwe
 ________________________________________________________________________________________________________
 
 So sieht die Benutzeroberfläche (GUI) aus!
+
 ![Bildbeschreibung](https://drive.google.com/uc?export=view&id=13Ib0ShrOzSlq1vg3T8yF3MMIpZ7q7ACN)
 
 
